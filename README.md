@@ -12,19 +12,19 @@
 #### Find me here 👇
 
 <a href="https://www.developeratease.com/">
-  <img align="left" alt="Akshay Sharma | Website" width="25px" src="./assets/internet.png" />
+  <img align="left" alt="Akshay Sharma | Website" width="25px" src="https://raw.githubusercontent.com/Akshay2996/Akshay2996/master/assets/internet.png" />
 </a>
 <a href="https://twitter.com/AkshayS2909">
-  <img align="left" alt="Akshay Sharma | Twitter" width="25px" src="./assets/twitter.png" />
+  <img align="left" alt="Akshay Sharma | Twitter" width="25px" src="https://raw.githubusercontent.com/Akshay2996/Akshay2996/master/assets/twitter.png" />
 </a>
 <a href="https://www.instagram.com/shirobakuno/">
-  <img align="left" alt="Akshay Sharma | Instagram" width="25px" src="./assets/instagram.png" />
+  <img align="left" alt="Akshay Sharma | Instagram" width="25px" src="https://raw.githubusercontent.com/Akshay2996/Akshay2996/master/assets/instagram.png" />
 </a>
 <a href="https://www.linkedin.com/in/akshay-sharma-7962ab13a/">
-  <img align="left" alt="Akshay Sharma | LinkedIn" width="25px" src="./assets/linkedin.png" />
+  <img align="left" alt="Akshay Sharma | LinkedIn" width="25px" src="https://raw.githubusercontent.com/Akshay2996/Akshay2996/master/assets/linkedin.png" />
 </a>
 <a href="https://www.youtube.com/channel/UCsBMXC_pvHZkxSmGD-bLf0w?view_as=subscriber">
-  <img align="left" alt="Akshay Sharma | Youtube" width="25px" src="./assets/youtube.png" />
+  <img align="left" alt="Akshay Sharma | Youtube" width="25px" src="https://raw.githubusercontent.com/Akshay2996/Akshay2996/master/assets/youtube.png" />
 </a>
 
 <br />
@@ -53,6 +53,6 @@
 
 <img align="left" alt="Markdown" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />
 
-<img align="left" alt="Excel" width="30px" width="30px" src="./assets/excel.png" />
+<img align="left" alt="Excel" width="30px" width="30px" src="https://raw.githubusercontent.com/Akshay2996/Akshay2996/master/assets/excel.png" />
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
