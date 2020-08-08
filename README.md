@@ -59,4 +59,4 @@
 
 <hr>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshay2996&layout=compact&theme=radical" />
+<img align="center" src="https://github-readme-stats-1.vercel.app/api/top-langs/?username=akshay2996&layout=compact&theme=radical" />
