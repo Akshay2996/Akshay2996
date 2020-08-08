@@ -12,19 +12,19 @@
 
 #### Find me here 👇
 
-<a href="https://www.developeratease.com/">
+<a target="_blank" href="https://www.developeratease.com/">
   <img align="left" alt="Akshay Sharma | Website" width="25px" src="https://raw.githubusercontent.com/Akshay2996/Akshay2996/master/assets/internet.png" />
 </a>
-<a href="https://twitter.com/AkshayS2909">
+<a target="_blank" href="https://twitter.com/AkshayS2909">
   <img align="left" alt="Akshay Sharma | Twitter" width="25px" src="https://raw.githubusercontent.com/Akshay2996/Akshay2996/master/assets/twitter.png" />
 </a>
-<a href="https://www.instagram.com/shirobakuno/">
+<a target="_blank" href="https://www.instagram.com/shirobakuno/">
   <img align="left" alt="Akshay Sharma | Instagram" width="25px" src="https://raw.githubusercontent.com/Akshay2996/Akshay2996/master/assets/instagram.png" />
 </a>
-<a href="https://www.linkedin.com/in/akshay-sharma-7962ab13a/">
+<a target="_blank" href="https://www.linkedin.com/in/akshay-sharma-7962ab13a/">
   <img align="left" alt="Akshay Sharma | LinkedIn" width="25px" src="https://raw.githubusercontent.com/Akshay2996/Akshay2996/master/assets/linkedin.png" />
 </a>
-<a href="https://www.youtube.com/channel/UCsBMXC_pvHZkxSmGD-bLf0w?view_as=subscriber">
+<a target="_blank" href="https://www.youtube.com/channel/UCsBMXC_pvHZkxSmGD-bLf0w?view_as=subscriber">
   <img align="left" alt="Akshay Sharma | Youtube" width="25px" src="https://raw.githubusercontent.com/Akshay2996/Akshay2996/master/assets/youtube.png" />
 </a>
 
@@ -62,10 +62,10 @@
 
 <hr />
 
-<a href="https://www.developeratease.com/">
+<a target="_blank" href="https://www.developeratease.com/">
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Akshay2996&show_icons=true&include_all_commits=true&theme=radical&hide=stars,contribs" alt="Akshay's github stats" />
 </a>
 
-<a href="https://portfolio-akshay.netlify.com/">
+<a target="_blank" href="https://portfolio-akshay.netlify.com/">
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Akshay2996&layout=compact&theme=radical&hide=java" />
 </a>
