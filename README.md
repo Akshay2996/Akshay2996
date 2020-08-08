@@ -1,6 +1,8 @@
-## Hello, I'm [Akshay Sharma!](https://portfolio-akshay.netlify.com/) 👋
+# Hello, I'm [Akshay Sharma!](https://portfolio-akshay.netlify.com/) 👋
 
-### Who I Am & What I Do
+<br />
+
+## Who I Am & What I Do
 
 - ☯ I'm a **Developer / Thinker / Creator / Learner**
 - 🌱 Learning new things everyday.
@@ -9,7 +11,8 @@
 - 🚀 Science Enthusiast who loves to learn the mysteries about the Universe.
 - 👨‍💻 Full Stack developer who loves web development.
 
-#### Find me here 👇
+
+### Find me here 👇
 
 <a href="https://www.developeratease.com/">
   <img align="left" alt="Akshay Sharma | Website" width="25px" src="https://raw.githubusercontent.com/Akshay2996/Akshay2996/master/assets/internet.png" />
@@ -29,7 +32,7 @@
 
 <br />
 
-#### Languages & Tools:
+### Languages & Tools:
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
@@ -56,3 +59,15 @@
 <img align="left" alt="Excel" width="30px" width="30px" src="https://raw.githubusercontent.com/Akshay2996/Akshay2996/master/assets/excel.png" />
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<br />
+
+<hr />
+
+<a href="https://www.developeratease.com/">
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Akshay2996&show_icons=true&include_all_commits=true&theme=radical&hide=stars,contribs" alt="Akshay's github stats" />
+</a>
+
+<a href="https://portfolio-akshay.netlify.com/">
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Akshay2996&layout=compact&theme=radical&hide=java" />
+</a>
