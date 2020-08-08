@@ -56,7 +56,3 @@
 <img align="left" alt="Excel" width="30px" width="30px" src="./assets/excel.png" />
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<hr>
-
-<img align="center" src="https://github-readme-stats-1.vercel.app/api/top-langs/?username=akshay2996&layout=compact&theme=radical" />
