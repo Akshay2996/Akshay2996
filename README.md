@@ -1,5 +1,7 @@
 # Hello, I'm [Akshay Sharma!](https://portfolio-akshay.netlify.com/) 👋
 
+<img align="right" src="assets/potrait.png" alt="Personalized Caricature of Akshay Sharma" width="320px" height="400px" />
+
 ### Who I Am & What I Do
 
 - ☯ I'm a **Developer / Thinker / Creator / Learner**
@@ -8,7 +10,6 @@
 - 📷 Love to take photos & edit them.
 - 🚀 Science Enthusiast who loves to learn the mysteries about the Universe.
 - 👨‍💻 Full Stack developer who loves web development.
-
 
 ### Find me here 👇
 
