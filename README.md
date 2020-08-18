@@ -1,6 +1,6 @@
 # Hello, I'm [Akshay Sharma!](https://portfolio-akshay.netlify.com/) 👋
 
-<img align="right" src="assets/potrait.png" alt="Personalized Caricature of Akshay Sharma" width="320px" height="400px" />
+<img align="right" src="https://raw.githubusercontent.com/Akshay2996/Akshay2996/master/assets/potrait.png" alt="Personalized Caricature of Akshay Sharma" width="320px" height="400px" />
 
 ### Who I Am & What I Do
 
