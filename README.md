@@ -11,7 +11,7 @@
 - 🚀 Science Enthusiast who loves to learn the mysteries about the Universe.
 - 👨‍💻 Full Stack developer who loves web development.
 
-### Find me here 👇
+### Find Me Here
 
 <a target="_blank" href="https://www.developeratease.com/">
   <img align="left" alt="Akshay Sharma | Website" width="25px" src="https://raw.githubusercontent.com/Akshay2996/Akshay2996/master/assets/internet.png" />
