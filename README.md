@@ -1,6 +1,10 @@
 # Hello, I'm [Akshay Sharma!](https://portfolio-akshay.netlify.com/) 👋
 
+<<<<<<< HEAD
 <img align="right" src="assets/portrait.png" alt="Personalized Caricature of Akshay Sharma" width="320px" height="400px" />
+=======
+<img align="right" src="https://raw.githubusercontent.com/Akshay2996/Akshay2996/master/assets/portrait.png" alt="Personalized Caricature of Akshay Sharma" width="320px" height="400px" />
+>>>>>>> 49643df7f0c45c032a885cc321617f9cd3fe4ce7
 
 ### Who I Am & What I Do
 
@@ -11,7 +15,7 @@
 - 🚀 Science Enthusiast who loves to learn the mysteries about the Universe.
 - 👨‍💻 Full Stack developer who loves web development.
 
-### Find me here 👇
+### Find Me Here
 
 <a target="_blank" href="https://www.developeratease.com/">
   <img align="left" alt="Akshay Sharma | Website" width="25px" src="https://raw.githubusercontent.com/Akshay2996/Akshay2996/master/assets/internet.png" />
@@ -39,8 +43,6 @@
 
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
-<img align="left" alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-
 <img align="left" alt="Javascript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
@@ -51,13 +53,9 @@
 
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
-<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
 <img align="left" alt="Markdown" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />
 
 <img align="left" alt="Excel" width="30px" width="30px" src="https://raw.githubusercontent.com/Akshay2996/Akshay2996/master/assets/excel.png" />
-
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
 <br />
