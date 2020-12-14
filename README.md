@@ -54,8 +54,6 @@
 
 <img align="left" alt="Markdown" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />
 
-<img align="left" alt="Excel" width="30px" width="30px" src="https://raw.githubusercontent.com/Akshay2996/Akshay2996/master/assets/excel.png" />
-
 <br />
 <br />
 
