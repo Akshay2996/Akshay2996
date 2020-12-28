@@ -60,7 +60,7 @@
 ---
 
 <a target="_blank" href="https://www.developeratease.com/">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Akshay2996&show_icons=true&include_all_commits=true&theme=radical&hide=stars&count_private=true" alt="Akshay's github stats" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Akshay2996&show_icons=true&theme=radical&hide=stars,contribs&count_private=true" alt="Akshay's github stats" />
 </a>
 
 <a target="_blank" href="https://portfolio-akshay.netlify.com/">
