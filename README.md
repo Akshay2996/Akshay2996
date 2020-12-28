@@ -4,7 +4,7 @@
 
 ### Who I Am & What I Do
 
-- ☯ I'm a **Developer / Thinker / Creator / Learner**
+- ☯ I'm a **Developer | Thinker | Creator | Learner**
 - 🌱 Learning new things everyday.
 - 🎥 Passionate about Video making & editing.
 - 📷 Love to take photos & edit them.
