@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://spotify-on-github-phi.vercel.app/api/spotify-playing" alt="Akshay Spotify Playing" width="350" />](https://open.spotify.com/user/rw1jhe9fhc7uo4ypglyso9wlh)
+[![Spotify](https://spotify-on-github-phi.vercel.app/api/spotify)](https://open.spotify.com/user/rw1jhe9fhc7uo4ypglyso9wlh)
 
 ### Find Me Here
 
