@@ -11,6 +11,9 @@
 - 🚀 Science Enthusiast who loves to learn the mysteries about the Universe.
 - 👨‍💻 FrontEnd developer who loves web development.
 
+### Spotify Playing 🎧
+[![Spotify](https://https://spotify-on-github.akshay2996.vercel.app/api/spotify)](https://open.spotify.com/user/rw1jhe9fhc7uo4ypglyso9wlh)
+
 ### Find Me Here
 
 <a target="_blank" href="https://www.developeratease.com/">
