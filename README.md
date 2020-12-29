@@ -12,7 +12,7 @@
 - 👨‍💻 FrontEnd developer who loves web development.
 
 ### Spotify Playing 🎧
-[![Spotify](https://https://spotify-on-github.akshay2996.vercel.app/api/spotify)](https://open.spotify.com/user/rw1jhe9fhc7uo4ypglyso9wlh)
+[<img src="https://https://spotify-on-github.akshay2996.vercel.app/api/spotify-playing" alt="Akshay's Spotify Playing" width="350px" />](https://open.spotify.com/user/rw1jhe9fhc7uo4ypglyso9wlh)
 
 ### Find Me Here
 
