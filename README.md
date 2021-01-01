@@ -15,7 +15,7 @@
 
 [![Spotify](https://spotify-on-github-phi.vercel.app/api/spotify)](https://open.spotify.com/user/rw1jhe9fhc7uo4ypglyso9wlh)
 
-### Find Me Here
+### Find Me 📮
 
 <a target="_blank" href="https://www.developeratease.com/">
   <img align="left" alt="Akshay Sharma | Website" width="25px" src="https://raw.githubusercontent.com/Akshay2996/Akshay2996/master/assets/internet.png" />
@@ -35,7 +35,7 @@
 
 <br />
 
-### Languages & Tools:
+### Languages & Tools 🗃
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
@@ -66,8 +66,6 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
 
 <a target="_blank" href="https://www.developeratease.com/">
 <img align="center" src="https://github-readme-stats-akshay2996.vercel.app/api?username=Akshay2996&show_icons=true&theme=radical&hide=stars&count_private=true" alt="Akshay's github stats" />
