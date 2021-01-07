@@ -66,11 +66,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#913](https://github.com/twindle-co/twindle/issues/913) in [twindle-co/twindle](https://github.com/twindle-co/twindle)
-2. 🗣 Commented on [#993](https://github.com/twindle-co/twindle/issues/993) in [twindle-co/twindle](https://github.com/twindle-co/twindle)
-3. ❌ Closed PR [#975](https://github.com/twindle-co/twindle/pull/975) in [twindle-co/twindle](https://github.com/twindle-co/twindle)
-4. 💪 Opened PR [#981](https://github.com/twindle-co/twindle/pull/981) in [twindle-co/twindle](https://github.com/twindle-co/twindle)
-5. 💪 Opened PR [#980](https://github.com/twindle-co/twindle/pull/980) in [twindle-co/twindle](https://github.com/twindle-co/twindle)
+1. 🎉 Merged PR [#1](https://github.com/Akshay2996/ToDoList-app/pull/1) in [Akshay2996/ToDoList-app](https://github.com/Akshay2996/ToDoList-app)
+2. 🗣 Commented on [#913](https://github.com/twindle-co/twindle/issues/913) in [twindle-co/twindle](https://github.com/twindle-co/twindle)
+3. 🗣 Commented on [#993](https://github.com/twindle-co/twindle/issues/993) in [twindle-co/twindle](https://github.com/twindle-co/twindle)
+4. ❌ Closed PR [#975](https://github.com/twindle-co/twindle/pull/975) in [twindle-co/twindle](https://github.com/twindle-co/twindle)
+5. 💪 Opened PR [#981](https://github.com/twindle-co/twindle/pull/981) in [twindle-co/twindle](https://github.com/twindle-co/twindle)
 <!--END_SECTION:activity-->
 
 <a target="_blank" href="https://www.developeratease.com/">
