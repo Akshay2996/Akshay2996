@@ -15,7 +15,7 @@
 
 [![Spotify](https://spotify-on-github-phi.vercel.app/api/spotify)](https://open.spotify.com/user/rw1jhe9fhc7uo4ypglyso9wlh)
 
-### Contact Me
+### Connect With Me
 
 <a target="_blank" href="https://www.developeratease.com/">
   <img align="left" alt="Akshay Sharma | Website" width="25px" src="https://raw.githubusercontent.com/Akshay2996/Akshay2996/master/assets/internet.png" />
