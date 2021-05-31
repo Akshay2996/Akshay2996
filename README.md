@@ -66,11 +66,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Akshay2996/ToDoList-app/pull/1) in [Akshay2996/ToDoList-app](https://github.com/Akshay2996/ToDoList-app)
-2. 🗣 Commented on [#913](https://github.com/twindle-co/twindle/issues/913) in [twindle-co/twindle](https://github.com/twindle-co/twindle)
-3. 🗣 Commented on [#993](https://github.com/twindle-co/twindle/issues/993) in [twindle-co/twindle](https://github.com/twindle-co/twindle)
-4. ❌ Closed PR [#975](https://github.com/twindle-co/twindle/pull/975) in [twindle-co/twindle](https://github.com/twindle-co/twindle)
-5. 💪 Opened PR [#981](https://github.com/twindle-co/twindle/pull/981) in [twindle-co/twindle](https://github.com/twindle-co/twindle)
+1. 🎉 Merged PR [#4](https://github.com/Akshay2996/JavaScript-30/pull/4) in [Akshay2996/JavaScript-30](https://github.com/Akshay2996/JavaScript-30)
+2. 🎉 Merged PR [#10](https://github.com/Akshay2996/Portfolio-Template/pull/10) in [Akshay2996/Portfolio-Template](https://github.com/Akshay2996/Portfolio-Template)
+3. 🎉 Merged PR [#9](https://github.com/Akshay2996/Portfolio-Template/pull/9) in [Akshay2996/Portfolio-Template](https://github.com/Akshay2996/Portfolio-Template)
+4. 🎉 Merged PR [#8](https://github.com/Akshay2996/Portfolio-Template/pull/8) in [Akshay2996/Portfolio-Template](https://github.com/Akshay2996/Portfolio-Template)
+5. 🎉 Merged PR [#7](https://github.com/Akshay2996/Portfolio-Template/pull/7) in [Akshay2996/Portfolio-Template](https://github.com/Akshay2996/Portfolio-Template)
 <!--END_SECTION:activity-->
 
 <a target="_blank" href="https://www.developeratease.com/">
