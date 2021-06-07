@@ -66,11 +66,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/Akshay2996/JavaScript-30/pull/4) in [Akshay2996/JavaScript-30](https://github.com/Akshay2996/JavaScript-30)
-2. 🎉 Merged PR [#10](https://github.com/Akshay2996/Portfolio-Template/pull/10) in [Akshay2996/Portfolio-Template](https://github.com/Akshay2996/Portfolio-Template)
-3. 🎉 Merged PR [#9](https://github.com/Akshay2996/Portfolio-Template/pull/9) in [Akshay2996/Portfolio-Template](https://github.com/Akshay2996/Portfolio-Template)
-4. 🎉 Merged PR [#8](https://github.com/Akshay2996/Portfolio-Template/pull/8) in [Akshay2996/Portfolio-Template](https://github.com/Akshay2996/Portfolio-Template)
-5. 🎉 Merged PR [#7](https://github.com/Akshay2996/Portfolio-Template/pull/7) in [Akshay2996/Portfolio-Template](https://github.com/Akshay2996/Portfolio-Template)
+1. 🎉 Merged PR [#12](https://github.com/Akshay2996/Portfolio-Template/pull/12) in [Akshay2996/Portfolio-Template](https://github.com/Akshay2996/Portfolio-Template)
+2. 🎉 Merged PR [#1](https://github.com/Akshay2996/JavaScript-Effects/pull/1) in [Akshay2996/JavaScript-Effects](https://github.com/Akshay2996/JavaScript-Effects)
+3. 🎉 Merged PR [#4](https://github.com/Akshay2996/JavaScript-30/pull/4) in [Akshay2996/JavaScript-30](https://github.com/Akshay2996/JavaScript-30)
+4. 🎉 Merged PR [#10](https://github.com/Akshay2996/Portfolio-Template/pull/10) in [Akshay2996/Portfolio-Template](https://github.com/Akshay2996/Portfolio-Template)
+5. 🎉 Merged PR [#9](https://github.com/Akshay2996/Portfolio-Template/pull/9) in [Akshay2996/Portfolio-Template](https://github.com/Akshay2996/Portfolio-Template)
 <!--END_SECTION:activity-->
 
 <a target="_blank" href="https://www.developeratease.com/">
