@@ -66,11 +66,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/Akshay2996/Shopping-Cart/pull/12) in [Akshay2996/Shopping-Cart](https://github.com/Akshay2996/Shopping-Cart)
-2. 🎉 Merged PR [#11](https://github.com/Akshay2996/Shopping-Cart/pull/11) in [Akshay2996/Shopping-Cart](https://github.com/Akshay2996/Shopping-Cart)
-3. 💪 Opened PR [#11](https://github.com/Akshay2996/Shopping-Cart/pull/11) in [Akshay2996/Shopping-Cart](https://github.com/Akshay2996/Shopping-Cart)
-4. 🎉 Merged PR [#10](https://github.com/Akshay2996/Shopping-Cart/pull/10) in [Akshay2996/Shopping-Cart](https://github.com/Akshay2996/Shopping-Cart)
-5. 🎉 Merged PR [#12](https://github.com/Akshay2996/Portfolio-Template/pull/12) in [Akshay2996/Portfolio-Template](https://github.com/Akshay2996/Portfolio-Template)
+1. 🎉 Merged PR [#12](https://github.com/Akshay2996/Akshay2996.github.io/pull/12) in [Akshay2996/Akshay2996.github.io](https://github.com/Akshay2996/Akshay2996.github.io)
+2. 🎉 Merged PR [#11](https://github.com/Akshay2996/Akshay2996.github.io/pull/11) in [Akshay2996/Akshay2996.github.io](https://github.com/Akshay2996/Akshay2996.github.io)
+3. 🎉 Merged PR [#10](https://github.com/Akshay2996/Akshay2996.github.io/pull/10) in [Akshay2996/Akshay2996.github.io](https://github.com/Akshay2996/Akshay2996.github.io)
+4. 🎉 Merged PR [#9](https://github.com/Akshay2996/Akshay2996.github.io/pull/9) in [Akshay2996/Akshay2996.github.io](https://github.com/Akshay2996/Akshay2996.github.io)
+5. 🎉 Merged PR [#8](https://github.com/Akshay2996/Akshay2996.github.io/pull/8) in [Akshay2996/Akshay2996.github.io](https://github.com/Akshay2996/Akshay2996.github.io)
 <!--END_SECTION:activity-->
 
 <a target="_blank" href="https://www.developeratease.com/">
