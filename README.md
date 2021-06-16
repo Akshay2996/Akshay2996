@@ -66,11 +66,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13](https://github.com/Akshay2996/Shopping-Cart/pull/13) in [Akshay2996/Shopping-Cart](https://github.com/Akshay2996/Shopping-Cart)
-2. 🎉 Merged PR [#12](https://github.com/Akshay2996/Shopping-Cart/pull/12) in [Akshay2996/Shopping-Cart](https://github.com/Akshay2996/Shopping-Cart)
-3. 🎉 Merged PR [#12](https://github.com/Akshay2996/Akshay2996.github.io/pull/12) in [Akshay2996/Akshay2996.github.io](https://github.com/Akshay2996/Akshay2996.github.io)
-4. 🎉 Merged PR [#11](https://github.com/Akshay2996/Akshay2996.github.io/pull/11) in [Akshay2996/Akshay2996.github.io](https://github.com/Akshay2996/Akshay2996.github.io)
-5. 🎉 Merged PR [#10](https://github.com/Akshay2996/Akshay2996.github.io/pull/10) in [Akshay2996/Akshay2996.github.io](https://github.com/Akshay2996/Akshay2996.github.io)
+1. ❗️ Opened issue [#16](https://github.com/Akshay2996/Shopping-Cart/issues/16) in [Akshay2996/Shopping-Cart](https://github.com/Akshay2996/Shopping-Cart)
+2. ❗️ Closed issue [#15](https://github.com/Akshay2996/Shopping-Cart/issues/15) in [Akshay2996/Shopping-Cart](https://github.com/Akshay2996/Shopping-Cart)
+3. ❗️ Opened issue [#15](https://github.com/Akshay2996/Shopping-Cart/issues/15) in [Akshay2996/Shopping-Cart](https://github.com/Akshay2996/Shopping-Cart)
+4. ❗️ Closed issue [#14](https://github.com/Akshay2996/Shopping-Cart/issues/14) in [Akshay2996/Shopping-Cart](https://github.com/Akshay2996/Shopping-Cart)
+5. ❗️ Opened issue [#14](https://github.com/Akshay2996/Shopping-Cart/issues/14) in [Akshay2996/Shopping-Cart](https://github.com/Akshay2996/Shopping-Cart)
 <!--END_SECTION:activity-->
 
 <a target="_blank" href="https://www.developeratease.com/">
