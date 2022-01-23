@@ -26,7 +26,7 @@
 <a target="_blank" href="https://www.instagram.com/shirobakuno/">
   <img align="left" alt="Akshay Sharma | Instagram" width="25px" src="https://raw.githubusercontent.com/Akshay2996/Akshay2996/master/assets/instagram.png" />
 </a>
-<a target="_blank" href="https://www.linkedin.com/in/akshay-sharma-7962ab13a/">
+<a target="_blank" href="https://www.linkedin.com/in/akshay2996/">
   <img align="left" alt="Akshay Sharma | LinkedIn" width="25px" src="https://raw.githubusercontent.com/Akshay2996/Akshay2996/master/assets/linkedin.png" />
 </a>
 <a target="_blank" href="https://www.youtube.com/channel/UCsBMXC_pvHZkxSmGD-bLf0w?view_as=subscriber">
