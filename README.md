@@ -17,9 +17,9 @@
 
 ### Connect With Me
 
-<a target="_blank" href="https://www.developeratease.com/">
+<!-- <a target="_blank" href="https://www.developeratease.com/">
   <img align="left" alt="Akshay Sharma | Website" width="25px" src="https://raw.githubusercontent.com/Akshay2996/Akshay2996/master/assets/internet.png" />
-</a>
+</a> -->
 <a target="_blank" href="https://twitter.com/AkshayS2909">
   <img align="left" alt="Akshay Sharma | Twitter" width="25px" src="https://raw.githubusercontent.com/Akshay2996/Akshay2996/master/assets/twitter.png" />
 </a>
