@@ -11,10 +11,6 @@
 - 🚀 Science Enthusiast who loves to learn the mysteries about the Universe.
 - 👨‍💻 FrontEnd developer who loves web development.
 
-### Spotify Playing 🎧
-
-[![Spotify](https://spotify-on-github-phi.vercel.app/api/spotify)](https://open.spotify.com/user/rw1jhe9fhc7uo4ypglyso9wlh)
-
 ### Connect With Me
 
 <!-- <a target="_blank" href="https://www.developeratease.com/">
