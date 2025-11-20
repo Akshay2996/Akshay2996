@@ -9,7 +9,7 @@
 - 🎥 Passionate about Video making & editing.
 - 📷 Love to take photos & edit them.
 - 🚀 Science Enthusiast who loves to learn the mysteries about the Universe.
-- 👨‍💻 FrontEnd developer who loves web development.
+- 👨‍💻 An **Engineer** who loves to solve problems.
 
 ### Connect With Me
 
